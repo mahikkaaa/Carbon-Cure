@@ -64,7 +64,7 @@ The core of the project involves building an LSTM model using the TensorFlow and
 
 To use this code, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/mahikkaaa/CO2-Emissions-Prediction.git`
+1. Clone the repository: `git clone https://github.com/mahikkaaa/Carbon-Cure.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the Jupyter notebook or Python script for step-by-step analysis.
 
@@ -88,4 +88,4 @@ To use this code, follow these steps:
 
 Feel free to customize this README further based on the specific details of your project, such as adding sections for results, recommendations, or acknowledgments.
 
-For any questions or issues, please open an [issue](https://github.com/mahikkaaa/CO2-Emissions-Prediction/issues).
+For any questions or issues, please open an [issue](https://github.com/mahikkaaa/Carbon-Cure/issues).
