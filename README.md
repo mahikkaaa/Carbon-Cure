@@ -46,4 +46,11 @@ The dataset contains information on carbon emissions from electricity generation
 - Identify the most influential features contributing to carbon emissions.
 - Visualize and interpret feature importance scores obtained from the machine learning model.
 
+### Project Coordinators:
+- Mahika Agrawal - 20BAI10101
+- Sneha Tiwari - 20BAI10153
+- Sahil Arora - 20BAI10264
+- Nikhil - 20BAI10275
+- Areena Khan - 20BAI10285
+
 Feel free to customize this README further based on the specific details of your project, such as adding sections for results, recommendations, or acknowledgments.
