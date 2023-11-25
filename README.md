@@ -1,6 +1,6 @@
 
 # CARBON CURE :  Analyzing and Predicting Carbon Emissions from Electricity Generation
-
+ 
 ![carbon-dioxide-emissions-from-electricity-photo-of-factory-smoke](https://github.com/mahikkaaa/Carbon-Cure/assets/80638498/995e6ec5-d6b6-4e68-b09b-0844f738c8e2)
 
 
