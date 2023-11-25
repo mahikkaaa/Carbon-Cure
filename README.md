@@ -1,6 +1,9 @@
 
 # CARBON CURE :  Analyzing and Predicting Carbon Emissions from Electricity Generation
 
+![Uploading carbon-dioxide-emissions-from-electricity-photo-of-factory-smoke.jpg…]()
+
+
 ## Introduction
 
 The goal of this project is to analyze and predict carbon emissions from electricity generation using machine learning techniques. The project leverages a comprehensive dataset to gain insights into the factors influencing carbon emissions and develop a predictive model to forecast future emissions.
@@ -41,43 +44,5 @@ The dataset contains information on carbon emissions from electricity generation
 
 - Identify the most influential features contributing to carbon emissions.
 - Visualize and interpret feature importance scores obtained from the machine learning model.
-
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-   ```
-
-2. Set up the virtual environment (optional but recommended):
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Run the Jupyter Notebook:
-
-   ```bash
-   jupyter notebook
-   ```
-
-## Conclusion
-
-Summarize key findings from the analysis and modeling process, providing insights into the factors driving carbon emissions in electricity generation.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 Feel free to customize this README further based on the specific details of your project, such as adding sections for results, recommendations, or acknowledgments.
